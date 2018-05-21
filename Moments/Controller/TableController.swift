@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TableController.swift
 //  Moments
 //
 //  Created by Benoît Goossens on 21/05/18.
@@ -8,12 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TableController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .blue
+
     }
-
 }
-
