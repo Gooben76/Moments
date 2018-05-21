@@ -10,9 +10,11 @@ import UIKit
 
 class CollectionController: UIViewController {
 
+    var photos = [Photo]()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        photos = BaseDePhotos.charger.toutesLesPhotos()
     }
 
 }

@@ -15,6 +15,8 @@
 		17E7228F20B2C4ED00F87471 /* TableController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7228D20B2C4ED00F87471 /* TableController.swift */; };
 		17E7229020B2C4ED00F87471 /* TableController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17E7228E20B2C4ED00F87471 /* TableController.xib */; };
 		17E7229220B2C53300F87471 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229120B2C53300F87471 /* TabBarController.swift */; };
+		17E7229420B2C8A200F87471 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229320B2C8A200F87471 /* Photo.swift */; };
+		17E7229620B2CA5100F87471 /* BaseDePhotos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229520B2CA5100F87471 /* BaseDePhotos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		17E7228D20B2C4ED00F87471 /* TableController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableController.swift; sourceTree = "<group>"; };
 		17E7228E20B2C4ED00F87471 /* TableController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableController.xib; sourceTree = "<group>"; };
 		17E7229120B2C53300F87471 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		17E7229320B2C8A200F87471 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		17E7229520B2CA5100F87471 /* BaseDePhotos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDePhotos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 		17E7228720B2C21600F87471 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				17E7229320B2C8A200F87471 /* Photo.swift */,
+				17E7229520B2CA5100F87471 /* BaseDePhotos.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -173,6 +179,8 @@
 				17E7229220B2C53300F87471 /* TabBarController.swift in Sources */,
 				17E7227520B2BE6800F87471 /* AppDelegate.swift in Sources */,
 				17E7228B20B2C4C400F87471 /* CollectionController.swift in Sources */,
+				17E7229620B2CA5100F87471 /* BaseDePhotos.swift in Sources */,
+				17E7229420B2C8A200F87471 /* Photo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
