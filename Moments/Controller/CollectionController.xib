@@ -12,6 +12,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CollectionController" customModule="Moments" customModuleProvider="target">
             <connections>
+                <outlet property="collectionView" destination="CVB-9c-3ib" id="xim-dI-gwX"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
         </placeholder>

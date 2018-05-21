@@ -12,10 +12,12 @@ class ImageCoinsArrondis: UIImageView {
 
     override init(frame: CGRect) {
         super.init(frame: frame)
+        mep()
     }
 
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
+        mep()
     }
     
     func mep(){

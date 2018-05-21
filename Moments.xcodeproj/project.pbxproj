@@ -20,6 +20,8 @@
 		17E7229920B2DCF200F87471 /* MomentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229720B2DCF200F87471 /* MomentTableViewCell.swift */; };
 		17E7229A20B2DCF200F87471 /* MomentTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17E7229820B2DCF200F87471 /* MomentTableViewCell.xib */; };
 		17E7229C20B2E72900F87471 /* ImageCoinsArrondis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229B20B2E72900F87471 /* ImageCoinsArrondis.swift */; };
+		17E7229F20B2F4D500F87471 /* MomentCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7229D20B2F4D500F87471 /* MomentCollectionViewCell.swift */; };
+		17E722A020B2F4D500F87471 /* MomentCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17E7229E20B2F4D500F87471 /* MomentCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		17E7229720B2DCF200F87471 /* MomentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentTableViewCell.swift; sourceTree = "<group>"; };
 		17E7229820B2DCF200F87471 /* MomentTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MomentTableViewCell.xib; sourceTree = "<group>"; };
 		17E7229B20B2E72900F87471 /* ImageCoinsArrondis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCoinsArrondis.swift; sourceTree = "<group>"; };
+		17E7229D20B2F4D500F87471 /* MomentCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentCollectionViewCell.swift; sourceTree = "<group>"; };
+		17E7229E20B2F4D500F87471 /* MomentCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MomentCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 				17E7229720B2DCF200F87471 /* MomentTableViewCell.swift */,
 				17E7229820B2DCF200F87471 /* MomentTableViewCell.xib */,
 				17E7229B20B2E72900F87471 /* ImageCoinsArrondis.swift */,
+				17E7229D20B2F4D500F87471 /* MomentCollectionViewCell.swift */,
+				17E7229E20B2F4D500F87471 /* MomentCollectionViewCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -174,6 +180,7 @@
 				17E7227F20B2BE6A00F87471 /* LaunchScreen.storyboard in Resources */,
 				17E7229A20B2DCF200F87471 /* MomentTableViewCell.xib in Resources */,
 				17E7228C20B2C4C400F87471 /* CollectionController.xib in Resources */,
+				17E722A020B2F4D500F87471 /* MomentCollectionViewCell.xib in Resources */,
 				17E7227C20B2BE6A00F87471 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -187,6 +194,7 @@
 			files = (
 				17E7228F20B2C4ED00F87471 /* TableController.swift in Sources */,
 				17E7229220B2C53300F87471 /* TabBarController.swift in Sources */,
+				17E7229F20B2F4D500F87471 /* MomentCollectionViewCell.swift in Sources */,
 				17E7229920B2DCF200F87471 /* MomentTableViewCell.swift in Sources */,
 				17E7227520B2BE6800F87471 /* AppDelegate.swift in Sources */,
 				17E7229C20B2E72900F87471 /* ImageCoinsArrondis.swift in Sources */,
